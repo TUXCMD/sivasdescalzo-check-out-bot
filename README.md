@@ -1,4 +1,4 @@
-# svd-bot
+# siva diva
 monitors svd, then automatically checkout.
 
 ### 1.0.0
